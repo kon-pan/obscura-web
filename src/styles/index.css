@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@import './typography.css';
+
+:root {
+  color-scheme: dark;
+}
